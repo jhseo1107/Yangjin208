@@ -1,1 +1,1 @@
-bootstrap.* linguist-vendored
+*.js linguist-vendored
